@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dzieciolowski/lpus.git"
+    "url": "https://github.com/dzieciolowski/lprepo.git"
   },
   "version": "0.0.1",
   "description": "Local Plugin Repository",
