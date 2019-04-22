@@ -1,0 +1,25 @@
+{
+  "name": "lprepo",
+  "homepage": "https://github.com/dzieciolowski/lprepo",
+  "author": {
+    "name": "Pawel Dzieciolowski",
+    "url": "http://github.com/dzieciolowski"
+  },
+  "bin": {
+    "lprepo": "./lprepo.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dzieciolowski/lpus.git"
+  },
+  "version": "0.0.1",
+  "description": "Local Plugin Repository",
+  "main": "lprepo.js",
+  "scripts": {
+    "start": "node lprepo.js"
+  },
+  "license": "MIT"
+}
